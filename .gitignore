@@ -32,4 +32,4 @@ external
 
 !build.sh
 !install_depends_ubuntu22.sh
-out/
+!install-openh264-codec.sh
