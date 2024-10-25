@@ -1,4 +1,4 @@
-cp misc/config.ini.debian /opt/ogon/etc/ogon/config.ini
+cp misc/config_ubuntu/config.ini /opt/ogon/etc/ogon/config.ini
 sudo ln -s /opt/ogon/etc/dbus-1/system.d/ogon.SessionManager.conf /etc/dbus-1/system.d/
 sudo service dbus reload
 sudo cp misc/pam.d/ogon.debian /etc/pam.d/ogon
