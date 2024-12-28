@@ -29,6 +29,7 @@ ogonConfigVersion.cmake
 *.sh
 external
 .idea
+build/
 
 !build.sh
 !install_depends_ubuntu22.sh
